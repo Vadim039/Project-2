@@ -1,0 +1,15 @@
+C:\Users\Вадим\source\repos\Notes\Notes\bin\Debug\net6.0\Notes.exe
+C:\Users\Вадим\source\repos\Notes\Notes\bin\Debug\net6.0\Notes.deps.json
+C:\Users\Вадим\source\repos\Notes\Notes\bin\Debug\net6.0\Notes.runtimeconfig.json
+C:\Users\Вадим\source\repos\Notes\Notes\bin\Debug\net6.0\Notes.dll
+C:\Users\Вадим\source\repos\Notes\Notes\bin\Debug\net6.0\Notes.pdb
+C:\Users\Вадим\source\repos\Notes\Notes\obj\Debug\net6.0\Notes.csproj.AssemblyReference.cache
+C:\Users\Вадим\source\repos\Notes\Notes\obj\Debug\net6.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\source\repos\Notes\Notes\obj\Debug\net6.0\Notes.AssemblyInfoInputs.cache
+C:\Users\Вадим\source\repos\Notes\Notes\obj\Debug\net6.0\Notes.AssemblyInfo.cs
+C:\Users\Вадим\source\repos\Notes\Notes\obj\Debug\net6.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\Notes\Notes\obj\Debug\net6.0\Notes.dll
+C:\Users\Вадим\source\repos\Notes\Notes\obj\Debug\net6.0\refint\Notes.dll
+C:\Users\Вадим\source\repos\Notes\Notes\obj\Debug\net6.0\Notes.pdb
+C:\Users\Вадим\source\repos\Notes\Notes\obj\Debug\net6.0\Notes.genruntimeconfig.cache
+C:\Users\Вадим\source\repos\Notes\Notes\obj\Debug\net6.0\ref\Notes.dll
